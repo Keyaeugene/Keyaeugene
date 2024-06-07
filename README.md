@@ -6,7 +6,7 @@ Web developer and designer.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [keyaeugene@gmail.com](mailto:keyaeugene@gmail.com)
-* 🧠  I'm learning flutter, hive and FireBase
+* 🧠  I'm learning flutter, supabase and FireBase
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/keyaeugene" target="_blank" rel="noreferrer"><img
