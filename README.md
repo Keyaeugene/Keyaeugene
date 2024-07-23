@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eugene Keya
 ===================================================================================================================================
 
-Hello! I'm  a passionate developer specializing in building modern and efficient applications using Flutter, Supabase, and PostgreSQL. With a focus on creating seamless user experiences and robust backend solutions, I thrive on turning ideas into functional, user-friendly applications.
+Hello! I'm  a passionate developer specializing in building modern and efficient applications using Flutter, Supabase, FireBase and PostgreSQL. With a focus on creating seamless user experiences and robust backend solutions, I thrive on turning ideas into functional, user-friendly applications.
 
 
 ### Skills
