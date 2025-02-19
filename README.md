@@ -8,3 +8,4 @@ Node js,
 PostgreSQL,
 Supabase, 
 FireBase,
+TypeScript
