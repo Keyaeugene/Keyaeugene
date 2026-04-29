@@ -24,15 +24,6 @@ Highly analytical Software Developer and AI Automation Engineer dedicated to bui
 
 ---
 
-### 📊 Professional Metrics
-
-<!-- Replace YOUR_USERNAME with your actual GitHub handle -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=keyaeugene&show_icons=true&theme=transparent&hide_border=true" alt="Eugene's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyaeugene&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="300" />
-</p>
-
----
 
 ### 🔗 Professional Network
 
